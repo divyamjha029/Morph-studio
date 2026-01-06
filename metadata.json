@@ -1,0 +1,7 @@
+{
+  "name": "MORPH-GEN // CLOTHING-SWAP",
+  "description": "A retro-futurist glitch-art interface for consistent AI-powered outfit synthesis using Gemini 2.5 Flash Image.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
